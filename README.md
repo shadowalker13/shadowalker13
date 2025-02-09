@@ -1,11 +1,15 @@
 # Hello, I'm Guerrier Jonathan
 <a href="https://www.linkedin.com/in/guerrier-jonathan-4743471a2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a devoted SOC analyst in trainee with a strong foundation in networking, endpoint security, IoT, and Linux, Frameworks and Controls. I am eager to launch my career in cybersecurity. I am skilled in monitoring, analyzing, and responding to cyber threats and identify cyber threats in systems, or files.
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Career Aspirations
+
+As a digital forensics and threat intelligence analyst, I am seeking opportunities in threat detection, in Blue Team operations at multinational organisations, Threat Hunting, Incidence response, I am excited to contribute to a dynamic digital forensics and threat intelligence analyst team where I can apply my skills, learn from seasoned professionals, and make a meaningful impact on the security landscape.
 
 ## Skills
 
