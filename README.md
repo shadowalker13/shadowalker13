@@ -25,10 +25,10 @@ As a digital forensics and threat intelligence analyst, I am seeking opportuniti
 ## Tools
 
 <div>
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C9B?&style=for-the-badge&logo=kali&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-8A0000?&style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <a href="https://www.kali.org"><img src="https://img.shields.io/badge/-Kali_Linux-557C9B?&style=for-the-badge&logo=kali&logoColor=white" /></a>
+  <a href="https://www.metasploit.com"><img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=metasploit&logoColor=white" /></a>
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp_Suite-8A0000?&style=for-the-badge&logo=burp-suite&logoColor=white" /></a>
+  <a href="https://nmap.org"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
 </div>
 
 ### Network
