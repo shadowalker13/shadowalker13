@@ -33,7 +33,7 @@ As a digital forensics and threat intelligence analyst, I am seeking opportuniti
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
 ### Endpoint
