@@ -1,4 +1,3 @@
-# Hello, I'm Guerrier Jonathan
 <a href="https://www.linkedin.com/in/guerrier-jonathan-4743471a2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a devoted SOC analyst in trainee with a strong foundation in networking, endpoint security, IoT, and Linux, Frameworks and Controls. I am eager to launch my career in cybersecurity. I am skilled in monitoring, analyzing, and responding to cyber threats and identify cyber threats in systems, or files.
